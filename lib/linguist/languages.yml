@@ -5901,6 +5901,7 @@ V:
   - vlang
   extensions:
   - ".v"
+  - ".vsh"
   tm_scope: source.v
   ace_mode: golang
   codemirror_mode: go
